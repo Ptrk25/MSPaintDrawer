@@ -1,0 +1,9 @@
+c:\users\patrick\documents\visual studio 2015\Projects\Dickbutt2\Dickbutt2\bin\Debug\Dickbutt2.exe.config
+c:\users\patrick\documents\visual studio 2015\Projects\Dickbutt2\Dickbutt2\obj\Debug\Dickbutt2.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2015\Projects\Dickbutt2\Dickbutt2\obj\Debug\Dickbutt2.Form1.resources
+c:\users\patrick\documents\visual studio 2015\Projects\Dickbutt2\Dickbutt2\obj\Debug\Dickbutt2.Properties.Resources.resources
+c:\users\patrick\documents\visual studio 2015\Projects\Dickbutt2\Dickbutt2\obj\Debug\Dickbutt2.csproj.GenerateResource.Cache
+c:\users\patrick\documents\visual studio 2015\Projects\Dickbutt2\Dickbutt2\bin\Debug\Dickbutt2.exe
+c:\users\patrick\documents\visual studio 2015\Projects\Dickbutt2\Dickbutt2\bin\Debug\Dickbutt2.pdb
+c:\users\patrick\documents\visual studio 2015\Projects\Dickbutt2\Dickbutt2\obj\Debug\Dickbutt2.exe
+c:\users\patrick\documents\visual studio 2015\Projects\Dickbutt2\Dickbutt2\obj\Debug\Dickbutt2.pdb
